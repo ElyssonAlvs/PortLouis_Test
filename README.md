@@ -45,7 +45,7 @@ Variáveis disponíveis no arquivo `.env`:
 
 ## Configuração do Banco de Dados
 
-### Opção 1: Usando Docker Compose (Recomendado)
+### Opção 1: Usando Docker Compose
 
 Suba o container do MySQL 8.0 já com o banco `contatos_db` e a tabela `contatos` criados automaticamente:
 
